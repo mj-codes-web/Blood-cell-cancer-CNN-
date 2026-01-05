@@ -1,4 +1,3 @@
-# Blood-cell-cancer-CNN-
 # Blood Cell Cancer Prediction Using CNN
 
 A Convolutional Neural Network (CNN) model to detect blood cancer from microscopic blood cell images, aiding early diagnosis through automated classification. The system processes blood smear images to identify cancerous cells with high accuracy.
