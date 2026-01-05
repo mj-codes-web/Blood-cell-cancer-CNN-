@@ -57,10 +57,10 @@ opencv-python
 matplotlib
 scikit-learn
 ```
-Full list in `requirements.txt`.
+
 
 ## Future Work
 - Integrate advanced CNNs like ResNet or EfficientNet.
 - Add multi-stage cancer classification.
-- Deploy as web app with Streamlit/Flask.[6][1]
+- Deploy as web app with Flask.
 
